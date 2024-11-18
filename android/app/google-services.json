@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "777597935694",
+    "firebase_url": "https://subnex-fd326-default-rtdb.firebaseio.com",
+    "project_id": "subnex-fd326",
+    "storage_bucket": "subnex-fd326.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777597935694:android:a488fda42d1ce5b21be31f",
+        "android_client_info": {
+          "package_name": "com.example.subnex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUVWFKaHz7PoBNYKHX-z07Xo1IzDQrjAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
